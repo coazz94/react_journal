@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    height: 55px;
+    background: #F55A5A;
+    color: #FFFFFF;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+}
+
+
+.star {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: calc(50% - 24px/2 - 50px);
+    top: calc(50% - 24px/2 - 324px);
+
+    background: #DADADA;
+}
+
+
+/* my travel journal. */
